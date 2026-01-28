@@ -10,6 +10,7 @@ A simple fruit shop demo application built with HTML, CSS, and JavaScript. This 
 
 - 🍏 **Product Catalog**: Browse fresh fruits (Apple, Banana, Lemon)
 - 🛒 **Shopping Cart**: Add items to basket and manage your order
+- You get free skewers
 
 ## Usage
 
