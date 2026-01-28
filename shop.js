@@ -3,7 +3,7 @@ const PRODUCTS = {
   banana: { name: "Banana", emoji: "🍌" },
   lemon: { name: "Lemon", emoji: "🍋" },
   // Skewers are not sold separately; they are added/removed automatically.
-  skewers: { name: "Wooden Skewers (5-pack)", emoji: "🥢" },
+  skewers: { name: "Wooden Skewers", emoji: "🥢" },
 };
 
 function getBasket() {
